@@ -1,4 +1,4 @@
-#Prac1
+# Data acquisition, install packages, Loading packages, Data types, checking type of variable, printing variable and objects (Vector, Matrix, List, Factor, Data frame, Table)
 
 setwd("C:\\Users\\ADMIN\\OneDrive\\Desktop\\New folder\\rpracticals")
 
