@@ -1,3 +1,5 @@
+install.packages("readxl")
+
 # C-binding
 # Create two vectors
 vector1 <- c(11, 22, 33)
