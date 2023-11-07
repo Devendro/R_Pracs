@@ -1,3 +1,5 @@
+# Write commands for Working with different types of R Charts and Graphs like Histograms, Boxplots, Bar Charts,  Line Graphs, Scatterplots, Pie Charts
+
 # Read the data from a CSV file
 sales_data <- read.csv("companyData.csv")
 sales_data
