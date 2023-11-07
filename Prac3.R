@@ -1,3 +1,5 @@
+# Write commands for Implementation of Data preprocessing techniques like, Naming and Renaming variables, adding a new variable. Dealing with missing data. Dealing with categorical data. Data reduction using subsetting
+
 install.packages("dplyr")
 install.packages("caret")
 library(dplyr)
