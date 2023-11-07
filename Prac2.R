@@ -1,3 +1,5 @@
+# Write commands for following cbind-ing and rbind-ing, Reading and Writing data. setwd(), getwd(), data(), rm(), Attaching and Detaching data. Reading data from the console. Loading data from different data sources. (CSV, Excel) 
+
 install.packages("readxl")
 
 # C-binding
