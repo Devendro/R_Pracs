@@ -67,7 +67,6 @@ numeric_vector
 character_vector <- c("apple", "banana", "cherry")
 character_vector
 
-
 # Accessing elements of a vector
 element_1 <- numeric_vector[1]  # Access the first element
 element_2 <- character_vector[2]  # Access the second element
