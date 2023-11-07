@@ -1,3 +1,5 @@
+# Implement commands for drawing various Correlation Plots and learn the process of EDA
+
 # Load the necessary libraries
 install.packages("GGally")
 install.packages("ggplot2")
